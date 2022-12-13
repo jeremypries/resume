@@ -71,4 +71,4 @@ market.
 
  - GCP: IAM, Networking, BigQuery, Kubernetes, Compute Engine, Cloud Build, Cloud Run, Cloud Functions, GCS
  - Languages: Python, Powershell, C#, Javascript
- - DevOps: Terraform, Git, Docker, misc others
+ - DevOps: Kubernetes, Terraform, Git, Docker, Linux, Windows, many more
