@@ -46,9 +46,6 @@ market.
 
 ### <span>Sr Software Architect, Remote Maintenance Technologies</span> <span>2010 -- 2012</span>
 
- - Primary focus on the Straight Track product; a solution for petroleum transportation trucks.
- - Manage software development team and IT professionals.
-
 ### <span>Virtualization Architect, Datalink</span> <span>2009 -- 2010</span>
 
 ### <span>Virtualization Architect, Xcedex</span> <span>2005 -- 2009</span>
