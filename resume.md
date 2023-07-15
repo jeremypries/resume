@@ -11,7 +11,9 @@ Combination of infrastruction and application development background.  Intereste
 
 ## Professional Experience
 
-### <span>Director, Google Cloud Platform, Pythian/Agosto</span> <span>2017 -- present</span>
+### <span>Cloud Architect, LivePerson</span> <span>2023 -- present</span>
+
+### <span>Director, Google Cloud Platform, Pythian/Agosto</span> <span>2017 -- 2023</span>
 
  - Both billable and management responsibilities; hands-on manager
  - Build the GCP infrastructure team from the ground up at Agosto
